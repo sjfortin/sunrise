@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "273fd889-b211-4674-af30-1f9c0defe104"
+      }
+    },
+    "owner": "samfortin"
   }
 }
